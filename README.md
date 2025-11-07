@@ -104,5 +104,5 @@ What I built:
 ➡️ [psw-fe-ra-2024-group-8-mirror](https://github.com/milosmat/psw-fe-ra-2024-group-8-mirror)
 
 ---
-For more projects search my repositories!
+For more projects check this link https://github.com/milosmat?tab=repositories !
 Thanks for stopping by!
