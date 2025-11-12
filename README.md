@@ -2,10 +2,8 @@
 
 I ship end‑to‑end systems: federated/distributed ML, multimodal modeling, rule‑based reasoning, full‑stack apps, mobile features, desktop tools, and clean data layers. Below is what I’ve built and delivered across my projects.
 
-[[![GitHub stats](https://github-readme-stats-pi-gules-76.vercel.app/api?username=milosmat&show_icons=true&count_private=true&include_all_commits=true)
-](https://github-readme-stats-pi-gules-76.vercel.app/api?username=milosmat&show_icons=true&count_private=true
-)](https://github-readme-stats-milos-projects-463f2574.vercel.app/api?username=milosmat&show_icons=true&count_private=true
-)
+![GitHub stats](https://github-readme-stats-milos-projects-463f2574.vercel.app/api?username=milosmat&show_icons=true&count_private=true)
+
 
 ---
 
