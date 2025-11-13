@@ -4,8 +4,6 @@ I ship end‑to‑end systems: federated/distributed ML, multimodal modeling, ru
 
 [![GitHub stats](https://github-readme-stats-pi-gules-76.vercel.app/api?username=milosmat&show_icons=true&count_private=true)](https://github.com/milosmat)
 
-![Top Langs](https://github-readme-stats-pi-gules-76.vercel.app/api/top-langs/?username=milosmat&layout=compact)
-
 ---
 
 ## 🔥 Featured / Trending Projects
